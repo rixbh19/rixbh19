@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Rishabh Pal
 
-🚀 **AI Engineer | Fullstack Developer** 🌟  
+🚀 *Aspiring SDE | Currently Learning* 🌟  
 💻 Passionate about building intelligent systems and creating scalable web solutions.
 
 ---
@@ -13,8 +13,8 @@
 ---
 
 ## 🧠 I'm Currently Learning:
-- Artificial Neural Networks (ANN)
-- [Add more technologies you're exploring]
+- Java (Core and Advanced)
+- Javascrpit
 
 ---
 
@@ -26,17 +26,11 @@
 </div>
 
 ---
-
-## 🚀 Projects:
-- [Project 1](https://github.com/yourusername/project1) - Brief description
-- [Project 2](https://github.com/yourusername/project2) - Brief description
-
 ---
 
 ## 🛠️ Skills:
-- **Languages:** Python, JavaScript, [add others]
-- **Frameworks:** React, Node.js, Flask, [add others]
-- **Tools:** Git, Docker, Kubernetes, [add others]
+- **Languages:** Python, Java, [add others]
+- **Tools:** Git
 
 ---
 
